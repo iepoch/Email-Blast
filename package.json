@@ -1,0 +1,26 @@
+{
+  "name": "email-blasts",
+  "version": "1.0.0",
+  "description": "Google Email blast with google app scripts",
+  "main": "code.gs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iepoch/Email-Blast.git"
+  },
+  "keywords": [
+    "google",
+    "app",
+    "scripts",
+    "email",
+    "blast"
+  ],
+  "author": "Stefan Clem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iepoch/Email-Blast/issues"
+  },
+  "homepage": "https://github.com/iepoch/Email-Blast#readme"
+}

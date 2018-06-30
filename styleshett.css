@@ -1,0 +1,55 @@
+<!---Designed By: Stefan Clem --->
+<style>
+
+body,
+html {
+  background: hsl(94,18.9%, 85.5%);
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+}
+.main {
+  background: white;
+  font-size: 0.1em;
+  text-align: center;
+  margin: auto;
+}
+.card {
+  width: 100%;
+  background: hsl(94,18.9%, 85.5%);
+  transition: 0.3s;
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  padding: 2px 16px;
+  text-align: center;
+}
+
+header,
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  padding: 2em;
+  background: hsl(94,18.9%, 85.5%);
+  clear: left;
+  text-align: center;
+  text-indent: 15px;
+  font-size: 10px;
+}
+.button {
+  background: hsl(154,25%, 45.5%);
+  border: 1px solid thin black;
+  color: white;
+  border-radius: 2px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+</style>
+
